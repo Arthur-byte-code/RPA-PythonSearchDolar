@@ -8,7 +8,7 @@ Este é um script em Python que utiliza as bibliotecas PyAutoGUI e Pyperclip par
 1. Pressiona a tecla Win para abrir o menu Iniciar.
 2. Digita "microsoft edge" e pressiona Enter para abrir o navegador Microsoft Edge.
 3. Realiza uma busca pelo valor do dólar no navegador.
-4. Clica em um atalho para ir ao Google (dentro do navegador, por ser o Microsoft Edge, inicia com o Bing).
+4. Digita "google" na barra de URL e aperta enter
 5. Digita "valor do dólar" na barra de pesquisa e pressiona Enter.
 6. Copia o valor do dólar da página da web.
 7. Recupera o valor copiado e converte para um número de ponto flutuante.
@@ -22,7 +22,7 @@ This is a Python script that uses the PyAutoGUI and Pyperclip libraries to autom
 1. Presses the Win key to open the Start menu.
 2. Types "microsoft edge" and presses Enter to open the Microsoft Edge browser.
 3. Performs a search for the dollar value in the browser.
-4. Clicks on a shortcut to go to Google (within the browser, as it starts with Bing for Microsoft Edge).
+4. Types "google" on the URL bar and then press enter.
 5. Types "dollar value" in the search bar and presses Enter.
 6. Copies the dollar value from the web page.
 7. Retrieves the copied value and converts it to a floating-point number.
