@@ -36,7 +36,8 @@ pyautogui.press("enter")
 time.sleep(3)
 
 # Realiza uma busca pelo valor do dólar
-pyautogui.click(x=343, y=72)# este clique seria um atalho para ir ao  google dentro do navegador (por ser microft edge, inicia com o bing)
+pyautogui.write("google")
+pyautogui.press("enter")
 time.sleep(3)
 pyautogui.write("valor do dolar")# aqui, ja estaria aberta a barra de pesquisa
 pyautogui.press("enter")
