@@ -1,4 +1,4 @@
-# WebScrapingDollarPrice
+# Automação python wue busca valor do Dólar 
 I made a bot that take the dollar price by web scrapping and calculates it
 
 **Description in Portuguese:**
